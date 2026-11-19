@@ -20,7 +20,7 @@ Kali (LAN) → pfSense → Metasploitable (WAN side). Everything is isolated ins
 | 5 | [Suricata IDS](week5-suricata-ids.pdf) | Installed an intrusion detection system, chased an Nmap "filtered" mystery to a wrong route on Kali, got real alerts, and wrote my own detection rule for the vsftpd 2.3.4 backdoor. |
 | 6 | [WireGuard VPN](week6-wireguard-vpn.pdf) | Built a VPN between Kali and pfSense and used Wireshark to show the wire carries only encrypted data. |
 | 7 | [TLS handshake](week7-tls-handshake.pdf) | Captured and read a real TLS 1.3 handshake in Wireshark. |
-
+| 8 | [IPsec and IKE](week8-ipsec-ike.pdf) | Learned how an IPsec site-to-site VPN comes up and mapped every pfSense Phase 1 field to the concepts. |
 ## Skills shown
 
 - Firewall rules, NAT and the state table (pfSense)
