@@ -21,6 +21,8 @@ Kali (LAN) → pfSense → Metasploitable (WAN side). Everything is isolated ins
 | 6 | [WireGuard VPN](week6-wireguard-vpn.pdf) | Built a VPN between Kali and pfSense and used Wireshark to show the wire carries only encrypted data. |
 | 7 | [TLS handshake](week7-tls-handshake.pdf) | Captured and read a real TLS 1.3 handshake in Wireshark. |
 | 8 | [IPsec and IKE](week8-ipsec-ike.pdf) | Learned how an IPsec site-to-site VPN comes up and mapped every pfSense Phase 1 field to the concepts. |
+
+| 9 | [Wireshark basics](week9-wireshark-basics.pdf) | Compared HTTP and HTTPS on the wire, and answered "which sites did this machine talk to?" with the dns and ip.addr filters and Follow TCP Stream. |
 ## Skills shown
 
 - Firewall rules, NAT and the state table (pfSense)
